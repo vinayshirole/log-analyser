@@ -8,3 +8,6 @@ langserve
 fastapi
 sse-starlette
 pydantic
+langgraph
+langserve
+langgraph-openai
